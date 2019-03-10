@@ -25,4 +25,3 @@ function submitIt(){
     window.alert("Your form is going to be submitted now.");
   });
 }
-
